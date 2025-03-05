@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668835316155",
+    "project_id": "chatup-34240",
+    "storage_bucket": "chatup-34240.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668835316155:android:38b1edda0244d1e623849e",
+        "android_client_info": {
+          "package_name": "com.example.chat_upp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668835316155-lia1941o5f5r8u8lrkmi4tkffasasa0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgy4Hc1s3ECTJDMg51D1W5Afgen-QAE5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668835316155-lia1941o5f5r8u8lrkmi4tkffasasa0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
